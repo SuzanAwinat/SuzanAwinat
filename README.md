@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SuzanAwinat
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently writing my PhD thesis in Logic programming in Machine Learning.
+
 - 💞️ I’m looking to collaborate on Kyklos 4.0
 - 📫 How to reach me suzan.awinat@gmail.com
 
