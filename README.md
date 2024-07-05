@@ -1,5 +1,5 @@
 
-- 💞️ I’m looking to collaborate on Kyklos 4.0
+- 💞️ Arabic NLP
 - 📫 How to reach me suzan.awinat@gmail.com
 
 <!---
