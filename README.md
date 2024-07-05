@@ -1,5 +1,5 @@
 
-- 💞️ Arabic NLP
+- 💞️ Arabic NLP & Robotics
 - 📫 How to reach me suzan.awinat@gmail.com
 
 <!---
